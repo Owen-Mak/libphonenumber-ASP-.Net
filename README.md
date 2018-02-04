@@ -26,3 +26,4 @@ Steps for testing:
 4. Input your API request by filling out the fields.   
 5. On the left side you will see the api response.   
 
+![Example in fiddler](libphonefiddler.PNG)
